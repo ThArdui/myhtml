@@ -1,0 +1,10 @@
+table  th
+{
+    font-style: italic;
+
+}
+
+tr:nth-child(even)
+ {
+    font-weight: bold;
+}
