@@ -3,3 +3,4 @@ Hello Thomas
 Hello tout le monde
 Regarde les conflicts!
 Je reviens avec une petite modiffication!
+Thomas, demande a Johnny de ne plus creer des conflits!
