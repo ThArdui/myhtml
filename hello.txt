@@ -5,3 +5,4 @@ Hello Thomas
 Hello tout le monde
 >>>>>>> 2f94e29e6166ed719c6d17c4401d71b2abb14514
 Regarde les conflicts!
+Je reviens avec une petite modiffication!
